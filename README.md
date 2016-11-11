@@ -13,7 +13,7 @@ Need help?  Email us:
 
 #Getting Started
 
-###Download the Jupyter Notebook
+###Download the Jupyter Notebook for this workshop
 
 * Right-click on this link  https://raw.githubusercontent.com/gwu-libraries/python-intro-workshop/master/Python%20Workshop.ipynb  and click Save Link As...
 * Save the file to your computer (for example, to your Desktop).  It will be called **Python Workshop.ipynb**
