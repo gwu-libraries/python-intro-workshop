@@ -15,8 +15,8 @@ Laura Wrubel at lwrubel@gwu.edu
 
 ###Download the Jupyter Notebook
 
-* Open a new browser tab with https://raw.githubusercontent.com/gwu-libraries/python-intro-workshop/master/Python%20Workshop.ipynb
-* Click Save Page As... and save the file to your computer (for example, to your Desktop).  It will be called **Python Workshop.ipynb**
+* Right-click on this link  https://raw.githubusercontent.com/gwu-libraries/python-intro-workshop/master/Python%20Workshop.ipynb  and click Save Link As...
+* Save the file to your computer (for example, to your Desktop).  It will be called **Python Workshop.ipynb**
 
 ###Start Juypter Notebook
 
