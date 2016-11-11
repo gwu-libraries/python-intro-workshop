@@ -13,6 +13,20 @@ Laura Wrubel at lwrubel@gwu.edu
 
 #Getting Started
 
-This is where the students will copy the workbook from github
+###Download the Jupyter Notebook
+
+* Open a new browser tab with https://raw.githubusercontent.com/gwu-libraries/python-intro-workshop/master/Python%20Workshop.ipynb
+* Click Save Page As... and save the file to your computer (for example, to your Desktop).  It will be called **Python Workshop.ipynb**
+
+###Start Juypter Notebook
+
+* In Anaconda Navigator, launch Jupyter Notebook
+
+###Upload and open the notebook file
+
+* At the top right, click **Upload** and find the **Python Workshop.ipynb** file
+* After it uploads, find **Python Workshop.ipynb** in the file list, and click on it.  Now you're ready to begin!
+
+
 
 
