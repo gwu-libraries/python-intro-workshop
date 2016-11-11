@@ -7,9 +7,9 @@ This is the repository for the Introduction to Python workshop at GW Libraries.
 
 Install Python 3.5 using Anaconda as described at http://swcarpentry.github.io/workshop-template/#python
 
-Need help?  Email us at:
-Dan Kerchner at kerchner@gwu.edu
-Laura Wrubel at lwrubel@gwu.edu 
+Need help?  Email us:
+* Dan Kerchner at kerchner@gwu.edu
+* Laura Wrubel at lwrubel@gwu.edu 
 
 #Getting Started
 
