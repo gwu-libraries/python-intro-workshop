@@ -5,27 +5,29 @@ This is the repository for the Introduction to Python workshop at GW Libraries.
 
 # Setup
 
-Install Python 3.5 using Anaconda as described at http://swcarpentry.github.io/workshop-template/#python
+Install Python 3 using Anaconda as described at http://swcarpentry.github.io/workshop-template/#python
 
 Need help?  Email us:
 * Dan Kerchner at kerchner@gwu.edu
 * Laura Wrubel at lwrubel@gwu.edu 
+* Justin Littman at justinlittman@gwu.edu
 
 # Getting Started
 
 ### Download the Jupyter Notebook for this workshop
 
-* Right-click on this link  https://raw.githubusercontent.com/gwu-libraries/python-intro-workshop/master/Python%20Workshop.ipynb  and click Save Link As...
-* Save the file to your computer (for example, to your Desktop).  It will be called **Python Workshop.ipynb**
+* Press the green "Clone or Download" button higher up this page.  Open it and press "Download ZIP".  Save the zip file on your Desktop.
+* Unzip the **python-intro-workshop-master.zip** file on your Desktop.  This should create a folder called **python-intro-workshop-master**.
 
 ### Start Juypter Notebook
 
-* In Anaconda Navigator, launch Jupyter Notebook
+* Open the Anaconda Navigator desktop app (it has a green circle icon)
+* In Anaconda Navigator, launch Jupyter Notebook.  This will open in a web browser tab.
 
 ### Upload and open the notebook file
 
-* At the top right, click **Upload** and find the **Python Workshop.ipynb** file
-* After it uploads, find **Python Workshop.ipynb** in the file list, and click on it.  Now you're ready to begin!
+* In the Jupyter tab, open the Desktop folder, then the **python-intro-workshop-master** folder.
+* Find **Python Workshop.ipynb** in the file list and click on it to open.  Now you're ready to begin!
 
 
 
